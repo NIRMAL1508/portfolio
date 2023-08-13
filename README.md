@@ -10,7 +10,7 @@ I am NIRMAL M, currently seeking internships or entry-level positions that will 
 - 💼 [LinkedIn](https://www.linkedin.com/in/NIRMAL1508)
 - 📧 [Email](mailto:muthukumaresannirmal@gmail.com)
 
-![adobe_express](https://github.com/NIRMAL1508/portfolio/assets/86112673/bfb02631-6e02-431f-a7b2-652288eb5d36)
+![Navy Modern Company ID Card](https://github.com/NIRMAL1508/portfolio/assets/86112673/1f60e1c0-9d40-48a5-8353-868aa993137b)
 
 
 - Thank you for visiting my portfolio!
