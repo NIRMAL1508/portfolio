@@ -70,7 +70,9 @@ p {
 .brand h1 span {
 	color: rgb(0,128,128);
 }
-
+.gre{
+	color:aliceblue;
+}
 /* Header section */
 #header {
 	position: fixed;
